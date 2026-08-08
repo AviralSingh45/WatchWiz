@@ -1,0 +1,8 @@
+pandas
+numpy==1.26.4
+scikit-learn
+nltk
+scikit-surprise==1.1.4
+pickle-mixin
+fastapi
+uvicorn
